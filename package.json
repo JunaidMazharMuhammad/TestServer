@@ -22,7 +22,7 @@
     "nodemon": "^1.12.4"
   },
   "dependencies": {
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "ip": "^1.1.5",
     "jquery": "^3.2.1",
     "mssql": "^6.2.0",
